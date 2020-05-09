@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   <img src=".github/readmeLogo.png" alt="GoStack">
 </h1>
@@ -30,4 +31,3 @@ $ yarn
 $ yarn dev
 #Para inicar os testes
 $ yarn test
-```
