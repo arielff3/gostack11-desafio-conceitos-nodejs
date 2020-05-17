@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">
   <img src=".github/readmeLogo.png" alt="GoStack">
 </h1>
